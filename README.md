@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AYDIN41
-- 👀 I’m interested in software I intent to learn data science.
-- 🌱 I’m currently learning Javascript and its framework NodeJS
-- 💞️ I’m looking to collaborate on data science and phone application
-- 📫 How to reach me ...
+# Emirhan Aydın
+## I love data analysis and I am working on it
 
-<!---
-AYDIN41/AYDIN41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+![AYDIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYDIN41&show_icons=true&theme=radical)
+
+
