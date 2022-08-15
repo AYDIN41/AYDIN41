@@ -1,5 +1,5 @@
 # Emirhan Aydın
-## I love data analysis and I am study on it
+
 
 
 
